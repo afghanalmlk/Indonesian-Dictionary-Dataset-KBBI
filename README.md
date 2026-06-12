@@ -1,4 +1,4 @@
-# KBBI-NLP-Dataset
+# Indonesian-Dictionary-Dataset-KBBI
 Dataset Kamus Besar Bahasa Indonesia (KBBI) yang telah dibersihkan untuk keperluan NLP.
 Dataset sumber (mentah) yang digunakan dalam proyek ini bersumber dari repositori [aryakdaniswara/kbbi-dataset-kbbi-v](https://github.com/aryakdaniswara/kbbi-dataset-kbbi-v).
 
